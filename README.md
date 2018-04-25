@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Andrea Garcia
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, we created a movie database to allow users to enter a movie title and receive the appropriate information.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://andiegarcia.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to register for an API Key on themoviedb.org so that the user's request could be completed.
+2. I learned how to display the movie title, the plot, the release date, movie popularity, movie language, and movie poster.
+3. I learned how to retrieve information from a website and print it to the screen for users' use.
